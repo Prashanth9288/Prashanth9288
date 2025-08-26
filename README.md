@@ -73,11 +73,11 @@
 <div align="center">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaBoya&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthUppara&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 
   <br/>
  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivaBoya&show_icons=true&theme=radical" alt="Prashanth's GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashanthUppara&show_icons=true&theme=radical" alt="Prashanth's GitHub stats" height="170"/>
 
   <br/>
 
