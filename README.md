@@ -77,12 +77,12 @@
 
   <br/>
  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivaBoya&show_icons=true&theme=radical" alt="Shiva's GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivaBoya&show_icons=true&theme=radical" alt="Prashanth's GitHub stats" height="170"/>
 
   <br/>
 
 <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaBoya&theme=radical" alt="Streak Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth&theme=radical" alt="Streak Stats" height="170"/>
  
 
 </div>
