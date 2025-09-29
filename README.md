@@ -17,7 +17,7 @@
   <div align="left">
     <p>💬 Ask me about <i>MERN, DSA</i></p>
     <p>📫 How to reach me: <i>prashanth939288@gmail.com</i></p>
-    <p>🌐 Portfolio: <a href="https://shiva-portfolio-beta.vercel.app/">Visit Here</a></p>
+    <p>🌐 Portfolio: <a href="https:///">Visit Here</a></p>
     <p>⚡ Fun fact: <i>Think funny</i></p>
     <p>Passionate about building innovative projects and continuously learning new technologies.</p>
   </div>
