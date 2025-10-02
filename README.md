@@ -1,14 +1,21 @@
-<h1 align="center">Hi 👋, I'm Prashanth Uppara </h1>
+ <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/prashanth-uppara-b99149222/">Prashanth Uppara 💻 </h1>
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
   <!-- Image -->
   <div>
     <img alt="Coding" width="500" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
   </div>
-
-<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+ <p align="center">
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00FFFF&background=B3FFE500&center=true&random=false&width=600&lines=Full+Stack+Web+Developer;600+Hours+of+Coding+Experience" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrashanthUppara&label=Profile%20views&color=0e75b6&style=flat" alt="PrashanthUppara" /> 
