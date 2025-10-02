@@ -17,17 +17,15 @@
   <div align="left">
     I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
 
-    <p>💬  <i>Ask me About MERN,DSA</i></p>
+  <p>💬  <i>Ask me About MERN,DSA</i></p>
 - 📫 **Reach me at:** [Email](mailto:prashanth939288.gr@gmail.com) | [LinkedIn](https://https://www.linkedin.com/in/prashanth-uppara-b99149222//)  
     <p>🌐 Portfolio: <a href="https:///">Visit Here</a></p>
     💡 **Open to collaborations** & exciting projects  
     <p>⚡ Fun fact: <i>Think funny</i></p>
-    ⚡ My Motto: Never Stop Learning.
-I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
+    ⚡ My Motto: Never Stop Learning.I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
   </div>
 </div>
----
-
+<!----------------------------------- Tech Stack Section ------------------------------------>
 ## 🧑‍💻👩‍💻 Tech Stack  
 
 ### Frontend  
