@@ -42,7 +42,7 @@
 
 ![age](https://img.shields.io/badge/age-21-blue&height="20")
 ![living](https://img.shields.io/badge/living-Hyderabad,Telangana-maroon)
-![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
+![focus](https://img.shields.io/badge/focus-FullStackDevelopment-teal)
 =============================
 
   </div>
