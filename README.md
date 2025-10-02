@@ -14,19 +14,35 @@
   <img src="https://komarev.com/ghpvc/?username=PrashanthUppara&label=Profile%20views&color=0e75b6&style=flat" alt="PrashanthUppara" /> 
 </p>
   <!-- Text on the side -->
-  <div align="left">
-    I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
 
+ # <h2 align="left">💫 About Me:</h2>
+ 
+  <div align="left">
   <p>💬  <i>Ask me About MERN,DSA</i></p>
-- 📫 **Reach me at:** [Email](mailto:prashanth939288.gr@gmail.com) | [LinkedIn](https://https://www.linkedin.com/in/prashanth-uppara-b99149222//)  
-    <p>🌐 Portfolio: <a href="https:///">Visit Here</a></p>
+  
+📫 **How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/prashanth-uppara-b99149222/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Prashanth9288)
+
+<h5 align="left"><i>🌐 Portfolio --- </i>
+<a href="https://github.com/Prashanth9288/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
+</h5>
     💡 **Open to collaborations** & exciting projects  
     <p>⚡ Fun fact: <i>Think funny</i></p>
-    ⚡ My Motto: Never Stop Learning.I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
+    
+  ⚡ My Motto: Never Stop Learning.I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
+
+
+
+![age](https://img.shields.io/badge/age-21-blue&height="20")
+![living](https://img.shields.io/badge/living-Hyderabad,Telangana-maroon)
+![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
+=============================
+
   </div>
 </div>
+
 <!----------------------------------- Tech Stack Section ------------------------------------>
-## 🧑‍💻👩‍💻 Tech Stack  
+# 🧑‍💻👩‍💻 Tech Stack  
 
 ### Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -64,10 +80,10 @@
 ---
 
 ## 🤝 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boyashiva)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-uppara-b99149222)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shiva-portfolio-beta.vercel.app/)
  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivasiddu80@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanth939288@gmail.com)  
 
 ---
 
@@ -77,16 +93,18 @@
 <div align="center">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthUppara&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth9288&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+
 
   <br/>
  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PrashanthUppara&show_icons=true&theme=radical" alt="Prashanth's GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashanth9288&show_icons=true&theme=radical" alt="Prashanth's GitHub stats" height="170"/>
 
   <br/>
 
+
 <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth&theme=radical" alt="Streak Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth9288&theme=radical" alt="Streak Stats" height="170"/>
 </div>
 
 <div align="center">
