@@ -22,11 +22,10 @@
     <p>🌐 Portfolio: <a href="https:///">Visit Here</a></p>
     💡 **Open to collaborations** & exciting projects  
     <p>⚡ Fun fact: <i>Think funny</i></p>
-    <p>Passionate about building innovative projects and continuously learning new technologies.</p>
+    ⚡ My Motto: Never Stop Learning.
+I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
   </div>
 </div>
-
-
 ---
 
 ## 🧑‍💻👩‍💻 Tech Stack  
