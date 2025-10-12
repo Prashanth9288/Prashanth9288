@@ -1,4 +1,4 @@
- <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/prashanth-uppara-b99149222/">Prashanth Uppara 💻 </h1>
 
@@ -30,8 +30,8 @@
 📫 **How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/prashanth-uppara-b99149222/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Prashanth9288)
 
-<h5 align="left"><i>🌐 Portfolio ---<a href="https://portfolio-nine-sand-f0iy1kagnh.vercel.app/" target="blank"> </i>
-<a href="https://github.com/Prashanth9288/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
+<h5 align="left"><i>🌐 Portfolio --- </i>
+<a href="https://portfolio-nine-sand-f0iy1kagnh.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
 </h5>
     💡 **Open to collaborations** & exciting projects  
     <p>⚡ Fun fact: <i>Think funny</i></p>
@@ -88,7 +88,7 @@
 
 ## 🤝 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-uppara-b99149222)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shiva-portfolio-beta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-nine-sand-f0iy1kagnh.vercel.app/)
  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanth939288@gmail.com)  
 
