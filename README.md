@@ -30,7 +30,7 @@
 📫 **How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/prashanth-uppara-b99149222/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Prashanth9288)
 
-<h5 align="left"><i>🌐 Portfolio --- </i>
+<h5 align="left"><i>🌐 Portfolio ---<a href="https://portfolio-nine-sand-f0iy1kagnh.vercel.app/" target="blank"> </i>
 <a href="https://github.com/Prashanth9288/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
 </h5>
     💡 **Open to collaborations** & exciting projects  
